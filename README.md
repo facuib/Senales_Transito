@@ -74,3 +74,16 @@ Preparar los datos para el entrenamiento y la validación.
 Seleccionar los modelos más adecuados para tus datos.
 Validar los modelos.
 Optimizar los modelos.
+
+
+
+
+# GANTT
+
+| Semana | Tareas |
+|--------|--------|
+| 1      | - Preprocesamiento de imágenes: Extraer, convertir, normalizar y reducir el ruido en las imágenes.<br>- Investigación y recopilación de conjuntos de datos de señales de tráfico.<br>- Exploración inicial de los datos.<br>- Investigación sobre modelos de procesamiento del habla y selección del modelo base. |
+| 2-3    | - Entrenar y evaluar el modelo de detección de señales de tráfico.<br>- Implementar y mejorar el modelo de procesamiento del habla.<br>- Implementar el preprocesamiento de imágenes adicional y la exploración de datos. |
+| 4      | - Evaluación y ajustes del preprocesamiento de imágenes.<br>- Evaluación y ajustes del modelo de detección de señales de tráfico.<br>- Evaluación y ajustes del modelo de procesamiento del habla.<br>- Integración del sistema de alertas verbales con el modelo de detección de señales. |
+| 5      | - Validación del sistema completo y ajustes finales.<br>- Preparación de la presentación del proyecto. |
+
