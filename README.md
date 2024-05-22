@@ -37,10 +37,10 @@ Validar y optimizar el sistema para su despliegue en entornos del mundo real.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#Marco de Tabajo:
+# Marco de Tabajo:
 
 
-#Etapas del Proyecto x tiempo de desarrollo:
+## Etapas del Proyecto x tiempo de desarrollo:
 
 *Preprocesamiento de Imágenes (1 semana):*
 Extraer imágenes de señales de tráfico del PDF.
