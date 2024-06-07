@@ -76,7 +76,7 @@ Validar los modelos.
 Optimizar los modelos.
 
 
-
+DESCARGA EL MODELO: https://drive.google.com/file/d/1d7JNu5B1iz09-UkvtKrldb3wX2Qg_XJ9/view?usp=drive_link
 
 # GANTT
 
